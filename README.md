@@ -25,7 +25,7 @@ PacMan will eventually be controlled by the user. The PacMan images will be repl
 
 This application will be updated infrequently and the version numbers will follow this format:
 
-<major>.<minor>
+                <major>.<minor>
 
 Any major realease may alter the design and functionality of the application. 
 
