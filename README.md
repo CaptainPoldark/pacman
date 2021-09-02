@@ -1,7 +1,7 @@
 # pacman.github.io
 
 ## PacMan Clone
-###### Version 0.1
+###### Version 1.1
 
 This project was created to practice animation in JavaScript, as well as to incorporate user interaction with the on screen characters.
 
