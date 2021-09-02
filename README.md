@@ -11,7 +11,7 @@ In this version, when the user loads the page PacMan will immediately start movi
 
 #### Installation
 
-This program requires pacman.html, PacMan1.png, PacMan2.png, PacMan3.png, and PacMan4.png to be in the same directory.
+This program requires pacman.html, PacMan1.png, PacMan2.png, PacMan3.png, and PacMan4.png. Add images to images folder and open the pacman.html in your browser.
 
 #### Usage
 
